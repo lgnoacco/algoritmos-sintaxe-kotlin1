@@ -1,4 +1,4 @@
-<h1 align="center">Unit Testing Course with C#</h1>
+<h1 align="center">algoritmos-sintaxe-kotlin</h1>
 <h3 align="center">
 <a href="" target="_blank">algoritmos-sintaxe-kotlin - ProgrAmada Mente channel</a>
 </h3>
